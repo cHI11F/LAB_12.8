@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio \u043F\u0440\u043E\u0435\u043A\u0442\u0438\\LAB_12.8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F889901-E64D-4162-88ED-B274C6205AF6}|LAB_12.8\\LAB_12.8.vcxproj|D:\\Visual Studio \u043F\u0440\u043E\u0435\u043A\u0442\u0438\\LAB_12.8\\LAB_12.8\\LAB_12.8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F889901-E64D-4162-88ED-B274C6205AF6}|LAB_12.8\\LAB_12.8.vcxproj|solutionrelative:LAB_12.8\\LAB_12.8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5682E333-BF54-41AE-831E-7E942E3EF221}|UnitTest1\\UnitTest1.vcxproj|D:\\Visual Studio \u043F\u0440\u043E\u0435\u043A\u0442\u0438\\LAB_12.8\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5682E333-BF54-41AE-831E-7E942E3EF221}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\Visual Studio \u043F\u0440\u043E\u0435\u043A\u0442\u0438\\LAB_12.8\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\Visual Studio \u043F\u0440\u043E\u0435\u043A\u0442\u0438\\LAB_12.8\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T19:12:45.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB_12.8.cpp",
+              "DocumentMoniker": "D:\\Visual Studio \u043F\u0440\u043E\u0435\u043A\u0442\u0438\\LAB_12.8\\LAB_12.8\\LAB_12.8.cpp",
+              "RelativeDocumentMoniker": "LAB_12.8\\LAB_12.8.cpp",
+              "ToolTip": "D:\\Visual Studio \u043F\u0440\u043E\u0435\u043A\u0442\u0438\\LAB_12.8\\LAB_12.8\\LAB_12.8.cpp",
+              "RelativeToolTip": "LAB_12.8\\LAB_12.8.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T18:36:16.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
